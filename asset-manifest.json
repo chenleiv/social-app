@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/social-app/static/css/main.2de1bdd6.css",
+    "main.css": "/social-app/static/css/main.d907d16f.css",
     "main.js": "/social-app/static/js/main.182a8955.js",
     "static/js/787.c45b6682.chunk.js": "/social-app/static/js/787.c45b6682.chunk.js",
     "static/media/user-img.jpeg": "/social-app/static/media/user-img.231771598069617ddab6.jpeg",
@@ -13,12 +13,12 @@
     "static/media/messaging-round.svg": "/social-app/static/media/messaging-round.8679589fd32830efe010b7b0c3ea574c.svg",
     "index.html": "/social-app/index.html",
     "static/media/home.svg": "/social-app/static/media/home.9c8d284e91205941fc6d2f64a7ab2301.svg",
-    "main.2de1bdd6.css.map": "/social-app/static/css/main.2de1bdd6.css.map",
+    "main.d907d16f.css.map": "/social-app/static/css/main.d907d16f.css.map",
     "main.182a8955.js.map": "/social-app/static/js/main.182a8955.js.map",
     "787.c45b6682.chunk.js.map": "/social-app/static/js/787.c45b6682.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2de1bdd6.css",
+    "static/css/main.d907d16f.css",
     "static/js/main.182a8955.js"
   ]
 }
