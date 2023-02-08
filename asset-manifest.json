@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/social-app/static/css/main.2de1bdd6.css",
-    "main.js": "/social-app/static/js/main.8a35bcab.js",
+    "main.js": "/social-app/static/js/main.f2de8b35.js",
     "static/js/787.c45b6682.chunk.js": "/social-app/static/js/787.c45b6682.chunk.js",
     "static/media/likes.svg": "/social-app/static/media/likes.7c97c3f5d521510bc56ba378e453b73c.svg",
     "static/media/thumbs-blue.svg": "/social-app/static/media/thumbs-blue.9f5efc7fad70287f3dc2ad3481205d40.svg",
@@ -13,11 +13,11 @@
     "index.html": "/social-app/index.html",
     "static/media/home.svg": "/social-app/static/media/home.9c8d284e91205941fc6d2f64a7ab2301.svg",
     "main.2de1bdd6.css.map": "/social-app/static/css/main.2de1bdd6.css.map",
-    "main.8a35bcab.js.map": "/social-app/static/js/main.8a35bcab.js.map",
+    "main.f2de8b35.js.map": "/social-app/static/js/main.f2de8b35.js.map",
     "787.c45b6682.chunk.js.map": "/social-app/static/js/787.c45b6682.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2de1bdd6.css",
-    "static/js/main.8a35bcab.js"
+    "static/js/main.f2de8b35.js"
   ]
 }
