@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+  color: #949796;
+  font-family: "Poppins";
+
+  .left {
+    display: flex;
+    padding: 9px 0 9px 20px;
+    gap: 10px;
+    cursor: pointer;
+    align-items: center;
+
+    svg {
+    }
+    input {
+      background: #f4f5f5;
+      border: none;
+      padding: 11px 18px 11px 12px;
+      border-radius: 30px;
+    }
+  }
+
+  .right {
+    display: flex;
+    padding: 0 20px;
+    cursor: pointer;
+
+    p {
+      padding: 18px 14px;
+      margin: 0;
+      display: inline-flex;
+
+      &:first-child {
+        border-bottom: 2px solid #2db8a1;
+        color: #2db8a1;
+      }
+
+      svg {
+        padding-right: 5px;
+        width: 16px;
+      }
+    }
+  }
+}
